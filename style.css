@@ -14,7 +14,7 @@ RESUME STYLES: Copy and paste these into your style.css page; Adjust the styles 
 
 /* TOPINFO ID SELECTOR FOR THE PERSONAL INFORMATION AT THE TOP */
 
-#topinfo
+#name
 {
 text-align:center;
 }
@@ -25,16 +25,6 @@ margin:0;
 }
 
 
-/* TITLE CLASS SELECTOR IS FOR THE LEFT-HAND COLUMN OF THE RESUME */
-
-.title
-{
-	width: 140px;
-	float: left;
-	padding: 20px 0 0 0;
-	margin: 20px 0 0 0;
-	border-top: 1px #000 solid;
-}
 
 /* INFO CLASS SELECTOR IS FOR THE RIGHT-HAND COLUMN OF THE RESUME */
 
@@ -47,39 +37,6 @@ margin:0;
 	border-top: 1px #000 solid;
 }
 
-/* STYLE FOR BOTTOM INFORMATION */
-
-#bottom
-{
-text-align:center;
-margin-top:20px;
-}
-
-#bottom p
-{
-	margin: 0;
-}
-
-/* STYLES FOR LINKS  BEGIN HERE */
-
-#resume a:link
-{
-	color: #600;
-	text-decoration: none;
-}
-
-#resume a:visited
-{
-	color: #600;
-	text-decoration: none;
-}
-
-#resume a:hover
-{
-	color: #060;
-	text-decoration: underline;
-	background-color: #CCC;
-}
 
 /* STYLES FOR TEXT BEGIN HERE */
 
@@ -122,8 +79,6 @@ margin-top:20px;
 	margin-bottom:0;
 }
 
-
-/* CLEAR CLASS RESETS THE FLOAT; USE BETWEEN ROWS OF THE RESUME */
 
 .clear
 {
