@@ -1,8 +1,8 @@
 .resume {
-	border: 10px #000 solid;
+	border: 50px #000 solid;
 	margin: 50px;
 	padding: 30px;
-	width: 800px;
+	width: 1000px;
 	background: linear-gradient(to bottom, gray, #fe4410);
 }
 .name {
