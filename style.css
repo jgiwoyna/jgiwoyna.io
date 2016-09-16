@@ -1,11 +1,11 @@
-.resume {
+.section {
 	border: 10px #000 solid;
 	margin: 50px;
 	padding: 30px;
 	width: 850px;
 	background: linear-gradient(to bottom, gray, #fe4100);
 }
-.name {
+.header {
 	text-align:center;
 	font-family: Helvetica, Arial;
 }
