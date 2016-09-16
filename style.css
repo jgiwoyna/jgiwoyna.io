@@ -3,7 +3,7 @@
 	margin: 50px;
 	padding: 30px;
 	width: 600px;
-	background: linear-gradient(to bottom, gray, green);
+	background: linear-gradient(to bottom, gray, light gray);
 }
 .name {
 	text-align:center;
