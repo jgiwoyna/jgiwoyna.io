@@ -1,9 +1,9 @@
 .resume {
-	border: 50px #000 solid;
+	border: 25px #000 solid;
 	margin: 50px;
 	padding: 30px;
-	width: 1000px;
-	background: linear-gradient(to bottom, gray, #fe4410);
+	width: 950px;
+	background: linear-gradient(to bottom, gray, #fe4100);
 }
 .name {
 	text-align:center;
