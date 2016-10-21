@@ -1,44 +1,39 @@
 .resume {
-	border: 5px #000 solid;
+	border: 3px #000 solid;
 	margin: 50px;
 	padding: 30px;
 	width: 850px;
-	background: linear-gradient(to bottom, gray, #feccbb);
+	background: linear-gradient(to bottom, gray, #feccab);
+	font-family: Helvetica, Arial;
 }
 .name {
 	text-align: center;
-	font-family: Helvetica, Arial;
 }
 
 
 h1, h2, h3, { margin: 0; }
 h1 {
 	font-size: 24pt;
-	font-family: Helvetica, Arial;
 	line-height: 20pt;
 	margin:10px 0 0 0;
 }
 h2 {
 	font-size: 16pt;
-	font-family: Helvetica, Arial;
 	line-height: 14pt;
 }
 
 h3 {
 	font-size: 12pt;
-	font-family: Helvetica, Arial;
 	line-height: 14pt;
 }
 p {
 	margin: 0 0 0 20px;
-	font-family: Helvetica, Arial;
 	text-indent: 0;
 	font-size: 10pt;
 	line-height: 14pt;
 }
 ul li {
 	font-size: 10pt;
-	font-family: Helvetica, Arial;
 	line-height: 14pt;
 	list-style-type: square;
 	list-style-position: outside;
