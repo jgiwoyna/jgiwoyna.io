@@ -1,4 +1,5 @@
-$('button').on('click', function() {
+$(document).ready(function() {
+  $('button').on('click', function() {
   var message = $('<html>
   <head>
    <meta charset="UTF-8">
