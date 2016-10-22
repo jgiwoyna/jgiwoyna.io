@@ -1,5 +1,5 @@
-  $(document).ready(function(){
-      $("#click").click(function(){
+ $(document).ready(function(){
+      $('#click').click(function(){
           $('.resume').toggle();
 	  });
 });
