@@ -1,4 +1,4 @@
-.resume {
+resume {
 	border: 2px #000 solid;
 	margin: 50px;
 	padding: 30px;
@@ -6,7 +6,7 @@
 	background: linear-gradient(to bottom, gray, #aa9811);
 	font-family: Helvetica, Arial;
 }
-.header {
+header {
 	text-align: center;
 }
 
