@@ -5,6 +5,7 @@
 	width: 850px;
 	background: linear-gradient(to bottom, gray, #aa9811);
 	font-family: Helvetica, Arial;
+	display: none;
 }
 .header {
 	text-align: center;
